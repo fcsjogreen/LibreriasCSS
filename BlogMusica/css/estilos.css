@@ -1,0 +1,37 @@
+.comentario{
+  padding: 10px;
+}
+
+.row{
+  position: relative;
+}
+
+.redes-sociales{
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+
+.panel{
+  margin-bottom: 20px;
+  border-radius:4px;
+}
+
+
+
+body{
+  background-color: #ffe0b2;
+}
+
+.principal{
+  background-color: #f9fbe7;
+}
+
+.buscar{
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.articulos{
+  padding: 10px;
+}

@@ -1,0 +1,49 @@
+body{
+  background: url("../img/img10.jpg")  no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+.usuario{
+  width: 10%;
+  height: 10%;
+  min-width: 10%;
+  min-height: 10%;
+
+}
+
+.receta{
+  margin-bottom: 50px;
+  padding: 10px;
+  background-color: #bbdefb ;
+}
+
+.buscar{
+  background-color: #b2dfdb;
+}
+
+.input-group{
+  padding: 5px;
+}
+
+.mimenu{
+  padding: 5px;
+}
+ .favoritos{
+   padding: 5px;
+
+ }
+
+ .historial{
+   padding: 5px;
+
+ }
+
+ h5{
+     color: #1e88e5;;
+ }
+.button {
+   background-color: #b2dfdb;
+
+}
